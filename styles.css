@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+ *{
+            background-color: white
+        }
+        .li{
+            text-align:left;
+            text-emphasis-color:rgb(147, 147, 185);
+            text-shadow:0cqh 1px;
+            background-color:aquamarine;
+            font-style: oblique;
+        }
+        .am{
+            text-align:left;
+            text-emphasis-color:rgb(147, 147, 185);
+            text-shadow:0cqh 1px;
+            background-color:aquamarine;
+            font-style: oblique;
+        }
+        .pa{
+            text-align:left;
+            text-emphasis-color:rgb(147, 147, 185);
+            text-shadow:0cqh 1px;
+            background-color:aquamarine;
+            font-style: oblique;
+        }
+        
